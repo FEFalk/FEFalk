@@ -9,6 +9,7 @@
 <code>[Facing Waves](https://github.com/FEFalk/facingwaves)</code>:musical_keyboard:   
 <code>[Stephanie Falk](https://github.com/FEFalk/stephanie-falk)</code>:scissors:   
 <code>[Apex Tracker Service](https://github.com/FEFalk/ApexTrackerConsoleApp)</code>:video_game:   
+<code>[2D Platformer Mobile Game](https://github.com/FEFalk/2D-Platformer)</code>:alien:   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
