@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Filiph Eriksson Falk</h1>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Filiph Arverot-Falk</h1>
 <h3 align="center">I'm a Web Developer at HiQ Mälardalen</h3>
 
 - 🔭 I’m currently working on a personal website for my music duo Facing Waves (https://facingwavesmusic.com/). Check us out on Spotify! https://open.spotify.com/artist/3RNqBfg11ygU5e3jGmpXZn?si=3C1-v4cmTAebxUrBbhunSQ
